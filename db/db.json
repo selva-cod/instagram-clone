@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "john",
+      "profilePic": "https://picsum.photos/50/50?1",
+      "image": "https://picsum.photos/600/600?1",
+      "caption": "Morning vibes ☀️",
+      "likes": 1245,
+      "comments": 89,
+      "timestamp": "2026-06-03T08:30:00Z",
+      "location": "Madurai"
+    },
+    {
+      "id": "2",
+      "username": "selvaaa",
+      "profilePic": "https://picsum.photos/50/50?2",
+      "image": "https://picsum.photos/600/600?2",
+      "caption": "Coffee + Coding ❤️",
+      "likes": 987,
+      "comments": 42,
+      "timestamp": "2026-06-03T10:15:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": "3",
+      "username": "vijay_photography",
+      "profilePic": "https://picsum.photos/50/50?3",
+      "image": "https://picsum.photos/600/600?3",
+      "caption": "Captured this beautiful sunset 🌅",
+      "likes": 3456,
+      "comments": 210,
+      "timestamp": "2026-06-02T18:45:00Z",
+      "location": "Kodaikanal"
+    }
+  ],
+  "profile": {
+    "username": "selvaa",
+    "profilePic": "src\\assets\\story3.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "john",
+      "profilePic": "https://picsum.photos/50/50?1"
+    },
+    {
+      "id": "2",
+      "username": "selva_5",
+      "profilePic": "https://picsum.photos/50/50?2"
+    },
+    {
+      "id": "3",
+      "username": "vijay_photography",
+      "profilePic": "https://picsum.photos/50/50?3"
+    },
+    {
+      "id": "4",
+      "username": "vijay",
+      "profilePic": "https://picsum.photos/50/50?3"
+    },
+    {
+      "id": "5",
+      "username": "vij_photography",
+      "profilePic": "https://picsum.photos/50/50?3"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "john",
+      "profilePic": "https://picsum.photos/50/50?1",
+      "image": "/src/assets/story1.jpg"
+    },
+    {
+      "id": "2",
+      "username": "selvaaa",
+      "profilePic": "https://picsum.photos/50/50?2",
+      "image": "/src/assets/story3.jpg"
+    },
+    {
+      "id": "3",
+      "username": "vijay_photography",
+      "profilePic": "https://picsum.photos/50/50?3",
+      "image": "/src/assets/story2.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "-V_NfX5Z6VE",
+      "username": "vijay"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
